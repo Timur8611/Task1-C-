@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\C#  Homework\Task1-C-\bin\Debug\net7.0\Task1-C-.exe
+C:\Users\user\Desktop\C#  Homework\Task1-C-\bin\Debug\net7.0\Task1-C-.deps.json
+C:\Users\user\Desktop\C#  Homework\Task1-C-\bin\Debug\net7.0\Task1-C-.runtimeconfig.json
+C:\Users\user\Desktop\C#  Homework\Task1-C-\bin\Debug\net7.0\Task1-C-.dll
+C:\Users\user\Desktop\C#  Homework\Task1-C-\bin\Debug\net7.0\Task1-C-.pdb
+C:\Users\user\Desktop\C#  Homework\Task1-C-\obj\Debug\net7.0\Task1-C-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#  Homework\Task1-C-\obj\Debug\net7.0\Task1-C-.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#  Homework\Task1-C-\obj\Debug\net7.0\Task1-C-.AssemblyInfo.cs
+C:\Users\user\Desktop\C#  Homework\Task1-C-\obj\Debug\net7.0\Task1-C-.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#  Homework\Task1-C-\obj\Debug\net7.0\Task1-C-.dll
+C:\Users\user\Desktop\C#  Homework\Task1-C-\obj\Debug\net7.0\refint\Task1-C-.dll
+C:\Users\user\Desktop\C#  Homework\Task1-C-\obj\Debug\net7.0\Task1-C-.pdb
+C:\Users\user\Desktop\C#  Homework\Task1-C-\obj\Debug\net7.0\Task1-C-.genruntimeconfig.cache
+C:\Users\user\Desktop\C#  Homework\Task1-C-\obj\Debug\net7.0\ref\Task1-C-.dll
